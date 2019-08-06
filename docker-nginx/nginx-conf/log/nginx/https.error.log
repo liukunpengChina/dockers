@@ -1,0 +1,7 @@
+2019/08/06 08:14:06 [error] 6#6: *6 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 192.168.0.1, server: mytest111.com, request: "GET /?permanent HTTP/1.1", host: "mytest111.com"
+2019/08/06 08:14:06 [error] 6#6: *6 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: mytest111.com, request: "GET /favicon.ico HTTP/1.1", host: "mytest111.com", referrer: "https://mytest111.com/?permanent"
+2019/08/06 08:15:04 [error] 6#6: *3 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 192.168.16.1, server: mytest111.com, request: "GET / HTTP/1.1", host: "mytest111.com"
+2019/08/06 08:15:07 [error] 6#6: *3 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 192.168.16.1, server: mytest111.com, request: "GET / HTTP/1.1", host: "mytest111.com"
+2019/08/06 08:15:09 [error] 6#6: *3 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 192.168.16.1, server: mytest111.com, request: "GET / HTTP/1.1", host: "mytest111.com"
+2019/08/06 08:15:24 [error] 6#6: *3 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 192.168.16.1, server: mytest111.com, request: "GET / HTTP/1.1", host: "mytest111.com"
+2019/08/06 08:16:12 [error] 9#9: *12 open() "/usr/share/nginx/html/app1/favicon.ico" failed (2: No such file or directory), client: 192.168.32.1, server: mytest111.com, request: "GET /favicon.ico HTTP/1.1", host: "a.mytest111.com", referrer: "https://a.mytest111.com/"

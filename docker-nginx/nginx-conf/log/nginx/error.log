@@ -1,0 +1,79 @@
+2019/08/06 06:21:47 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:21:49 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:21:52 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:21:54 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:21:57 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:21:59 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:22:04 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:22:11 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:22:25 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:22:52 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:23:44 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:24:45 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:25:46 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:26:16 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:26:19 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:26:21 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:26:23 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:26:26 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:26:28 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:26:32 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:26:40 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:26:53 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:27:21 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:27:50 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:27:52 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:27:54 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:27:56 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:27:58 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:28:01 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:28:05 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:28:12 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:28:26 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:28:52 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:29:44 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:30:45 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:31:46 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:32:52 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:32:54 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:32:56 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:32:58 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:33:01 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:33:03 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:33:07 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:33:23 [emerg] 1#1: no "events" section in configuration
+2019/08/06 06:40:54 [error] 6#6: *2 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.31.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/08/06 06:42:38 [error] 6#6: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/08/06 06:42:40 [error] 6#6: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2019/08/06 06:45:36 [emerg] 1#1: directive "listen" is not terminated by ";" in /etc/nginx/conf.d/app1.conf:5
+2019/08/06 07:23:52 [error] 6#6: *1 directory index of "/usr/share/nginx/html/" is forbidden, client: 172.19.0.1, server: a.com, request: "GET / HTTP/1.1", host: "localhost"
+2019/08/06 07:26:00 [error] 6#6: *5 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.19.0.1, server: a.com, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:26:43 [error] 6#6: *5 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.19.0.1, server: a.com, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:26:45 [error] 6#6: *5 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.19.0.1, server: a.com, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:26:58 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.20.0.1, server: a.com, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:27:00 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.20.0.1, server: a.com, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:27:00 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.20.0.1, server: a.com, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:27:00 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.20.0.1, server: a.com, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:27:00 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.20.0.1, server: a.com, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:27:47 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:28:21 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:28:21 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:28:22 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:28:22 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:28:22 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:28:34 [error] 6#6: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.22.0.1, server: localhost, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:29:27 [error] 7#7: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.23.0.1, server: localhost,, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:29:29 [error] 7#7: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.23.0.1, server: localhost,, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:29:29 [error] 7#7: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.23.0.1, server: localhost,, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:29:30 [error] 7#7: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.23.0.1, server: localhost,, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:29:30 [error] 7#7: *2 open() "/usr/share/nginx/html/503.html" failed (2: No such file or directory), client: 172.23.0.1, server: localhost,, request: "GET /503.html HTTP/1.1", host: "localhost"
+2019/08/06 07:31:49 [emerg] 1#1: directive "server_name" is not terminated by ";" in /etc/nginx/conf.d/app1.conf:5
+2019/08/06 07:35:26 [error] 6#6: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.27.0.1, server: mytest111.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2019/08/06 07:38:46 [error] 6#6: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.28.0.1, server: mytest111.com, request: "GET /favicon.ico HTTP/1.1", host: "mytest111.com", referrer: "http://mytest111.com/"
+2019/08/06 07:42:31 [error] 7#7: *3 open() "/usr/share/nginx/html/app2/favicon.ico" failed (2: No such file or directory), client: 172.29.0.1, server: mytest222.com, request: "GET /favicon.ico HTTP/1.1", host: "mytest222.com", referrer: "http://mytest222.com/"
+2019/08/06 07:54:15 [error] 6#6: *3 open() "/usr/share/nginx/html/app1/a/favicon.ico" failed (2: No such file or directory), client: 172.30.0.1, server: a.mytest111.com, request: "GET /favicon.ico HTTP/1.1", host: "a.mytest111.com", referrer: "http://a.mytest111.com/"
+2019/08/06 07:54:25 [error] 6#6: *5 open() "/usr/share/nginx/html/app1/b/favicon.ico" failed (2: No such file or directory), client: 172.30.0.1, server: b.mytest111.com, request: "GET /favicon.ico HTTP/1.1", host: "b.mytest111.com", referrer: "http://b.mytest111.com/"
+2019/08/06 08:08:05 [emerg] 1#1: unexpected "}" in /etc/nginx/conf.d/app1.conf:21
+2019/08/06 08:12:08 [emerg] 1#1: unexpected "}" in /etc/nginx/conf.d/app1.conf:21
+2019/08/06 08:12:36 [emerg] 1#1: cannot load certificate "/etc/nginx/ssl/nginx.crt": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/nginx/ssl/nginx.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/08/06 08:20:44 [error] 6#6: *17 open() "/usr/share/nginx/html/app1/b/favicon.ico" failed (2: No such file or directory), client: 192.168.96.1, server: b.mytest111.com, request: "GET /favicon.ico HTTP/1.1", host: "b.mytest111.com", referrer: "https://b.mytest111.com/"
